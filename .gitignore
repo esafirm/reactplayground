@@ -1,0 +1,5 @@
+node_modules/
+
+entrypoint/node_modules/ 
+entrypoint/.cache/
+entrypoint/dist/
